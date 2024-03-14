@@ -2,5 +2,6 @@
     "this-repository": "https://github.com/rayfin-ucsd/artifact-directory-template",
     "project-repository": "https://github.com/sujen07/NanoGPT-Loss-Stop-Analysis",
     "project-website-url": "https://akshatm1011.github.io/Optimizing-NanoGPT/",
-    "project-website-code": "https://github.com/Akshatm1011/Optimizing-NanoGPT"
+    "project-website-code": "https://github.com/Akshatm1011/Optimizing-NanoGPT",
+    "dockerhub-repository": "https://github.com/ucsd-ets/datahub-base-notebook"
 }
